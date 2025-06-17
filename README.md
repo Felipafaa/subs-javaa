@@ -1,4 +1,4 @@
-# Catálogo de Livros API RESTful
+# Catálogo de Livros API REST
 
 Felipe Rosa Peres rm557636 2tdspx
 
@@ -6,18 +6,16 @@ Felipe Rosa Peres rm557636 2tdspx
 
 Este projeto implementa uma API RESTful completa para a gestão de um catálogo de livros. [cite_start]Desenvolvida utilizando o framework Spring Boot, a API permite realizar as operações básicas de CRUD (Criação, Leitura, Atualização e Deleção) de livros, além de oferecer funcionalidades avançadas como paginação para a listagem de livros e filtros por título, autor e intervalo de ano de publicação.
 
-[cite_start]A API inclui documentação interativa utilizando SpringDoc para geração automática do Swagger UI, facilitando o teste e a compreensão dos endpoints disponíveis.
-
 ## Tecnologias Utilizadas
 
-* **Java**: Linguagem de programação (JDK 17+, compatível com Java 18).
+* **Java**: Linguagem de programação (JDK 17+, compatível tambem com Java 18).
 * **Spring Boot**: Framework principal (versão 3.5.0).
-    * `spring-boot-starter-web`: Para construção de APIs RESTful.
-    * `spring-boot-starter-data-jpa`: Para persistência de dados com JPA.
-    * `spring-boot-starter-validation`: Para validação de dados (Bean Validation).
-* **H2 Database**: Banco de dados relacional em memória, ideal para desenvolvimento e testes.
-* **Maven**: Ferramenta de automação de build e gerenciamento de dependências.
-* **SpringDoc OpenAPI (Swagger UI)**: Para documentação e testes interativos da API.
+    * `spring-boot-starter-web`
+    * `spring-boot-starter-data-jpa`
+    * `spring-boot-starter-validation`
+* **H2 Database**
+* **Maven**
+* **SpringDoc OpenAPI (Swagger UI)**
 
 ## Pré-requisitos
 
