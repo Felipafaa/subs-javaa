@@ -209,12 +209,4 @@ A API de Catálogo de Livros oferece os seguintes endpoints, baseados no `LivroC
     * **Password**: (Deixe em branco)
 3.  Clique em "Connect". Você poderá visualizar as tabelas e dados no banco de dados em memória.
 
-## Como Rodar os Testes
 
-Este projeto inclui testes automatizados para garantir a funcionalidade da API.
-
-1.  Na raiz do projeto, execute o comando Maven:
-    ```bash
-    mvn test
-    ```
-    Isso executará a classe de teste `CatalogoLivrosApplicationTests.java` e quaisquer outros testes que possam ter sido adicionados.
