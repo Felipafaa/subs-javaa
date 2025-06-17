@@ -4,7 +4,7 @@ Felipe Rosa Peres rm557636 2tdspx
 
 ## Descrição do Projeto
 
-Este projeto implementa uma API RESTful completa para a gestão de um catálogo de livros. [cite_start]Desenvolvida utilizando o framework Spring Boot, a API permite realizar as operações básicas de CRUD (Criação, Leitura, Atualização e Deleção) de livros, além de oferecer funcionalidades avançadas como paginação para a listagem de livros e filtros por título, autor e intervalo de ano de publicação.
+Este projeto implementa uma API RESTful completa para a gestão de um catálogo de livros.Desenvolvida utilizando o framework Spring Boot, a API permite realizar as operações básicas de CRUD (Criação, Leitura, Atualização e Deleção) de livros, além de oferecer funcionalidades avançadas como paginação para a listagem de livros e filtros por título, autor e intervalo de ano de publicação.
 
 ## Tecnologias Utilizadas
 
